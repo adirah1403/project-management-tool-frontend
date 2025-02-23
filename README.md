@@ -21,5 +21,7 @@ Smooth transitions & hover effects for an interactive experience
 Real-time notifications for feedback and error handling
 ![Signup](https://github.com/user-attachments/assets/677bf564-f122-4129-8a29-2ffdafe90808)
 ![Login](https://github.com/user-attachments/assets/95047fd6-fa43-495e-a630-14f5a4afe5bd)
+![Dashboard 1](https://github.com/user-attachments/assets/c106c122-67cb-4fe1-a456-fe157987d8fa)
+
 ![Dashboard 2](https://github.com/user-attachments/assets/4631a1da-d81d-4392-83fa-24ea7ceb00e0)
-![Dashboard 1](https://github.com/user-attachments/assets/68df1078-7f02-4f93-b487-cb6a663a2180)
+
